@@ -1,0 +1,33 @@
+Java Keywords
+==============
+-	In Java, keywords are predefined, reserved words that 
+	have specific meanings to the Java compiler and cannot 
+	be used as identifiers (e.g., variable names, method names,
+	class names). 
+	
+Below is the list of common Java keywords and their 
+general purposes:
+=====================================================
+1.	Access Modifiers: public, private, protected, static, 
+	final, abstract
+
+2.	Class and Object related: class, interface, enum, 
+	extends, implements, new, this, super, instanceof
+
+3.	Data Types: byte, short, int, long, float, double, 
+	boolean, char, void
+
+4.	Control Flow: if, else, switch, case, default, for, 
+	while, do, break, continue, return
+
+5.	Exception Handling: try, catch, finally, throw, throws
+
+6.	Package and Import: package, import
+
+7.	Other: transient, volatile, strictfp, assert, 
+	synchronized, native
+
+8.	Keywords added in newer versions: var (Java 10), 
+	record (Java 16), sealed, permits (Java 17)	
+	
+				======================

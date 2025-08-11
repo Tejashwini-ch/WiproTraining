@@ -1,0 +1,42 @@
+JDK, JRE and JVM
+=================
+JDK, JRE, and JVM are three core components of the Java 
+ecosystem, each with distinct roles. 
+-	The JDK (Java Development Kit) is a software 
+	development kit used for creating Java applications. 
+	JDK ----> CREATE JAVA APPS.
+	
+-	The JRE (Java Runtime Environment) provides the 
+	environment for running Java applications.
+	JRE ----> RUN JAVA APPS
+	
+-	The JVM (Java Virtual Machine) is the engine that 
+	executes Java bytecode, enabling platform independence. 
+	JVM ----> EXECUTES BYTECODE
+	
+
+JDK (Java Development Kit):
+It's a kit for Java developers, providing tools like 
+compilers, debuggers, and documentation generators. 
+It includes the JRE, so when you install the JDK, you also 
+get the environment to run Java programs. 
+Essentially, it's what you need to develop Java code. 
+
+JRE (Java Runtime Environment): 
+It provides the runtime environment for Java applications, including the JVM and necessary libraries. 
+It's what you need to run Java applications, 
+but not to develop them. 
+It's platform-dependent, meaning you need a JRE specific 
+to your operating system. 
+
+JVM (Java Virtual Machine):
+It's the core of the Java runtime environment, responsible for executing Java bytecode. 
+It provides platform independence by abstracting away the 
+underlying hardware and operating system. 
+JVM - java abc(bytecode)
+==========================================================
+It interprets bytecode into machine-specific instructions,
+allowing Java code to run on different platforms. 
+===========================================================
+It's a key component of the JRE. 	
+

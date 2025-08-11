@@ -1,0 +1,140 @@
+Features of Java:
+=================
+1.	Simple Syntax
+	Java syntax is very straightforward and very easy to 
+	learn. Java removes complex features like pointers 
+	and multiple inheritance, which makes it a good 
+	choice for beginners.	
+	
+2.	Object Oriented
+	Java is a pure object-oriented language. It supports 
+	core OOP concepts like:
+	1.	Class - It is a bluprint of the object.
+			  - It is a collection of "SIMILAR" objects.
+		Car(CLASS) - BMW,Audi,Mercedez,Aston Martin(OBJECTS)
+		HONDA(Class) - HONDA CRV,HONDA CIVIC,HONDA ACCORD,
+					   HONDA CITY.	
+			(VEHICLES)
+			Truck,Bus,Trailer,
+			 - It is a logical construct.
+			  
+	2.	Objects - 	It is a physical construct.It is an 
+					instance of the class.
+	
+	3.	Inheritance - A CHILD inherits the properties or behavoiur
+					 from their PARENTS.
+	
+	4.	Encapsulation - Wrapping of data into a single unit and 
+						that unit has a name.
+						
+	5.	Abstraction - Hiding unecessary data from the user so that
+						he/she should be concentrate on the logic.
+						printf("Hello");
+	
+	6.	Polymorphism - 1 single entity can have many forms
+						POLY(Many) + MORPHISM(Forms)
+						
+3.	Platform Independent
+	Java is platform-independent because of Java Virtual 
+	Machine (JVM).
+
+-	When we write Java code, it is first compiled by the 
+	compiler and then converted into bytecode(intermediate code)
+	(which is platform-independent).
+-	This byte code can run on any platform which has 
+	JVM installed.	
+	
+	Source code				  ByteCode
+	abc.java----->javac------abc.class----java abc----output
+	
+	=======================================================
+	JVM - Java Virtual Machine - It is PLATFORM DEPENDENT.
+	========================================================
+	
+	JVM						JVM					JVM
+	WINDOWS(JDK)			LINUX(JRE)			MAC(JRE)
+	javac abc.java			java abc			java abc	
+	(WORA)
+	
+4.	Interpreted
+-	Java code is not directly executed by the computer. 
+	It is first compiled into bytecode. This byte code is 
+	then understand by the JVM. This enables Java to run 
+	on any platform without rewriting code.	
+	
+5.	Scalable
+-	Java can handle both small and large-scale applications.
+	Java provides features like multithreading and 
+	distributed computing that allows developers to 
+	manage loads more easily.	
+	
+6.	Portable
+-	When we write a Java program, the code first get 
+	converted into bytecode and this bytecode does not 
+	depend on any operating system or any specific computer. 
+	We can simply execute this bytecode on any platform with 
+	the help of JVM. Since JVMs are available on all the OS's 
+	and that's why we can run the same Java program on 
+	different platforms.
+	
+7.	Secured and Robust
+-	Java is a reliable programming language because it 
+	can catch mistakes early while writing the code and 
+	also keeps checking for errors when the program is 
+	running. It also has a feature called exception 
+	handling that helps deal with unexpected problems 
+	smoothly.	
+	
+8.	Memory Management
+-	Memory management in Java is automatically handled 
+	by the Java Virtual Machine (JVM).
+
+-	Java garbage collector reclaim memory from objects that 
+	are no longer needed.
+	
+-	"Memory for objects are allocated in the "HEAP".
+
+-	Method calls and local variables are stored in the 
+	STACK.	
+	
+9.	High Performance
+-	Java is faster than old interpreted languages. Java 
+	program is first converted into bytecode which is 
+	faster than interpreted code. 	
+	
+10.	Multithreading
+-	Multithreading in Java allows multiple threads to run 
+	at the same time.
+-	It improves CPU utilization and enhancing performance 
+	in applications that require concurrent task execution.	
+	
+11.	Rich Standard Library
+-	Java provides various pre-built tools and libraries 
+	which is known as Java API. Java API is used to cover 
+	tasks like file handling, networking, database connectivity 
+	(JDBC), security, etc. 	
+	
+12.	Functional Programming Features
+-	Since Java 8, the language has introduced functional 
+	programming features such as:	
+	1.	lambda expression
+	2.	Stream API
+	3.	Functional Interfaces
+	
+13.	Integration with Other Technologies
+-	Java can easily work with many languages and tools as 
+	well. For example, Java can connect with C and C++ 
+	with the help of Java Native Interface (JNI). 
+	Java is very popular for building websites and 
+	webservices like RESTful & SOAP.	
+	
+14.	Support for Mobile and Web Application
+-	Java offers support for both web and mobile applications.	
+
+15.	Documentation and Community Support
+-	Java provide documentation which includes guides, 
+	API references, and tutorials for easy learning. 
+	Java has a large and active global community 
+	contributing to open-source projects, and resources.
+	
+	

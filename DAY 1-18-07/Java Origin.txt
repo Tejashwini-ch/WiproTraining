@@ -1,0 +1,74 @@
+Java
+====
+-	Java is a high-level, object-oriented programming 
+	language. 
+	
+-	This language is very easy to learn and widely used. 
+	
+-	It is known for its platform independence,reliability 
+	and security. It follows one principle, that is:
+	"Write Once, Run Anywhere"(WORA) principle.
+
+Java's origin
+-------------
+
+-	Java's history begins in 1991 at Sun Microsystems, 
+	where a team led by "James Gosling" aimed to create a 
+	new programming language for digital devices. 
+
+-	Initially called Oak, it was later renamed Java, 
+	inspired by Indonesian coffee beans. 
+	
+-	The language's core principle of "Write Once, 
+	Run Anywhere" (platform independence) fueled its 
+	rapid adoption, especially with the rise of the 
+	internet. 
+	
+
+Java Versions
+==============
+1991-1994: The Green Project and Oak. Sun Microsystems' 
+"Green Team" (including Gosling, Mike Sheridan, 
+and Patrick Naughton) initiated the project to develop 
+a language for embedded systems, focusing on consumer 
+electronics. The initial language was called Oak, 
+named after an oak tree outside Gosling's office. 
+
+1995: Java's Public Debut. 
+Sun Microsystems officially 
+launched Java, emphasizing its platform-independent 
+nature. The "HotJava" browser was introduced to showcase 
+Java applets. 
+
+1996: First Version (1.0). The initial version of Java, 1.0,
+was released. 
+
+1997: Standardization. 
+Java was standardized by ISO and ANSI, solidifying its 
+position as a reliable language. 
+
+1999: Java 2 Platform (J2SE, J2EE, J2ME). Java was divided 
+into three editions to cater to different needs. 
+
+2004: Java 5 and Enhancements. Java 5 introduced significant 
+language enhancements, including generics and other 
+features. 
+
+2006: Open Sourcing. 
+Sun Microsystems made Java open source by releasing 
+the OpenJDK. 
+
+2010: Oracle Acquisition. 
+Oracle acquired Sun Microsystems,taking over Java's 
+development and future. 
+
+2014: Java 8 and Modern Features. 
+Java 8 brought in features like lambda expressions and a new Date and Time 
+API. 
+
+2017: Java 9 and Modularization. 
+Java 9 introduced the 
+module system (JPMS) for modularizing applications. 
+
+Continued Evolution: Java continues to evolve with regular 
+releases, incorporating new features and improvements. 	
